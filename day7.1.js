@@ -1,0 +1,3 @@
+function mynname{
+    console.log();
+}
